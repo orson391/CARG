@@ -1,0 +1,12 @@
+first shuffle cards
+give to all players circular mannar
+check for spade and they start
+put or push the card in table 
+make it largest
+check if its more than 2 card in table:
+    true then check cards of table that is it same 
+        then whcih one is largest mark it as large
+    else
+    check is it differnt
+    then send all the cards of the table to largest card
+    set player turn to the loser player who got all cards
